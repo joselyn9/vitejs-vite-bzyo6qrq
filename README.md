@@ -66,3 +66,5 @@ npm install
 20may- working entries etc etc
 new enhancements
 Entries.tsx, based on the latest version (artifact ID: 5f6a45a6-7943-4ad8-ba88-764b084966d9, version: 5dac2ee1-96b6-45df-8d57-6b05045da0a0), with truncated pagination implemented.
+
+deploy yaml
