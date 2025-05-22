@@ -16,6 +16,9 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "baseUrl": "src",
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
     "paths": {
       "@/*": ["*"]
     }
